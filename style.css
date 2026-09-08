@@ -422,3 +422,22 @@
     transform 0.8s ease;
 }
 
+.instagram-link {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.instagram-link i {
+  font-size: 22px;
+}
+
+.instagram-link a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.instagram-link a:hover {
+  color: #6B2737;
+}
+
